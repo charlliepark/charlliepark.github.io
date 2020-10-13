@@ -1,20 +1,29 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Charlie park 
+title: charlie park
 
 # [수정필요] 간단한 사이트 설명
-description: academic playground for travel industry
+description: acamic playground for sales and marketing 
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: sangyoon(charlie) park
+author: sangyoon park
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Career: "career"
-  Project: "project"
   Publication: "publication"
+#  Blog: "blog"
+  Project: "project"
+#  GitHub: "https://github.com/seokho-son"
+#  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+
+
+# [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
+avatar: "/assets/img/charliepark.jpg"
+# 원형 아바타 이미지 여부 `true` 또는 `false`
+round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
@@ -28,10 +37,12 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "psyhana1002@gmail.com"
+#  facebook: seokho.son.korea
+  github: charlliepark
   linkedin: sangyoon(charlie) park
 #  twitter: daattali
 #  rss: true
-#  reddit: yourname1002@gmail
+#  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
