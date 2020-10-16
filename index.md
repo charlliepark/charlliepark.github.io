@@ -2,28 +2,31 @@
 layout: page
 title: Cloud Researcher
 subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/cover.jpg
 ---
 
 <br/>
 
-## About me
+## Who I am
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**charlie park** is a **_sales planner_** and **_
+Passion contagious_** of (https://www.hanatour.com). I am excited by the opportunity to pioneer the future of travel and also want to redefine the way people Search and Discover new travel experiences like OTA
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+Working in IT travel industry for the past 20 years, I believe that travel brings the world together and Now I am passionate about the possibilities!
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+They are talking me about; Travel is so much more than simply reaching your destination. Along your journey, you will make an immediate impact on re-imagining travel by gleaning insightful recommendations that drive improvements in a way that serves our goal to bring the world within reach.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
+From collaborating with internal clients and influencing business decisions, to A/B testing hypotheses, there is no shortage of opportunities for technical innovation at IT travel– the sky’s the limit! Modernizing our Search Platform is a high-visibility and accelerated capability in the company.
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+To facilitate this, we are a highly motivated individual to partner with the Search and Discovery team and help build scalable products that optimize multiple objective functions catering to the traveler, travel partners, and our mission.
+
+We IT travel staffs would be the specialist on search data, search experimentation, and will provide meaningful insights to improve the search experience.
+
+In conclusion, I think it is time to change the valuable insights experienced through them.
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Office: 41.Insadong 5-gil, Jongro-gu, Seoul, Republic of Korea
+Email: sang[at]hanatour.com or psyhana1002[at]gmail.com
 ```
