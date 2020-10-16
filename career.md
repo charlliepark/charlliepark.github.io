@@ -1,22 +1,27 @@
 ---
 layout: page
-title: Research Career
+title: IT planner specializing in sales performance
 ---
 
 <br/>
 
 
-# Research Experience
+# career
+차세대 플랫폼 프로젝트 
+### Global Hotel platform R&D 
+#### Project Leader, 2017 to Present
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
-
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* Project: _**Next Generation Platform Project **_
+  * Role: Build a business model
+          Process Innovations  
+          Requirements definition
+          Business Value Assessment (DCF)
+          Business Consulting _ Mohaji, Triple
+* Project: _**Managing Global Hotel team**_
+  * Role: design and development of a hotel sourcing, planning, sales and marketing, educations
+          2006 ~ 2017
+* Project: _**sales management**_
+  * Role: Agency and affiliated sales
 
 ### TestMidas, Inc.
 #### Senior Researcher,	2013 to 2014
@@ -99,18 +104,8 @@ title: Research Career
 
 # Honor and Award
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* Award from Excellent tourism workerof Korea Tourism Association
+* Top sales contest ranked 5, 2 times
+* Win a prize in Hanatour contest for K.M 3 times.
+* Win a prize “outstanding employee award” in 2000
+
