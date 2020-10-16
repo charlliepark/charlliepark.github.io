@@ -44,7 +44,10 @@ title: IT planner specializing in sales performance
 
 # Professional Activity
 
-### Open Source Project Contribution
+### career portfolio
+  
+* Raise a career portfolio with confidence without being proud
+ <video src="portfolio(charlie).mp4" width="600" height="400" autoplay controls>
 
 * Kubernetes project contents owner
   * Official member of Kubernetes organization (Github)
