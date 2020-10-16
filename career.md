@@ -7,33 +7,28 @@ title: IT planner specializing in sales performance
 
 
 # career
-차세대 플랫폼 프로젝트 
+
 ### Global Hotel platform R&D 
 #### Project Leader, 2017 to Present
 
-* Project: _**Next Generation Platform Project **_
+* Project: _**Next Generation Platform Project**_
   * Role: Build a business model
           Process Innovations  
           Requirements definition
           Business Value Assessment (DCF)
           Business Consulting _ Mohaji, Triple
-* Project: _**Managing Global Hotel team**_
-  * Role: design and development of a hotel sourcing, planning, sales and marketing, educations
-          2006 ~ 2017
-* Project: _**sales management**_
+
+### Managing Global Hotel team
+#### Team Leader,	2006 to 2017
+
+* Project: _**GLobal sales MAIDAS**_
+  * Role: design and development of a hotel sourcing, planning, sales and marketing, educations.
+
+### sales management
+#### Salesman, 1998 to 2006
+
+* performance: _** affiliating department store, financing and portal website**_
   * Role: Agency and affiliated sales
-
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
-
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
 
 ### Gwangju Institute of Science and Technology (GIST)
 #### Master Student, 2006 to 2008
