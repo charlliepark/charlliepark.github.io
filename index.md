@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: creating more valuable values
 cover-img: /assets/img/cover.jpg
 ---
 
