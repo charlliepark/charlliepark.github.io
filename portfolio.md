@@ -1,5 +1,3 @@
-### Professional Activity
-
 ### career portfolio
   
 * Raise a career portfolio with confidence without being proud
