@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Transformation
-subtitle: Stay hungry, Stay Foolish
+subtitle: Stay hungry, Stay foolish
 cover-img: /assets/img/cover.jpg
 ---
 
@@ -28,5 +28,5 @@ In conclusion, I think it is time to change the valuable insights experienced th
 
 ```
 Office: 41.Insadong 5-gil, Jongro-gu, Seoul, Republic of Korea
-Email: sang[at]hanatour.com or psyhana1002[at]gmail.com
+Email:  psyhana1002[at]gmail.com or sang[at]hanatour.com
 ```
