@@ -9,7 +9,8 @@ cover-img: /assets/img/cover.jpg
 
 ## Who I am
 
-**charlie park** is a **_sales planner_** and **_Passion contagious_** of (https://www.hanatour.com). portfolio_(https://charlliepark.github.io/portfolio-GCcomp/index.html)
+**charlie park** is a **_sales planner_** and **_Passion contagious_** of (https://www.hanatour.com). 
+portfolio_(https://charlliepark.github.io/portfolio-GCcomp/index.html).
 I am excited by the opportunity to pioneer the future of travel and also want to redefine the way people Search and Discover new travel experiences like Global OTA
 
 Working in IT travel industry for the past 20 years, I believe that travel brings the world together and Now I am passionate about the possibilities!
