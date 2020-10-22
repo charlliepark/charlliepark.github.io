@@ -1,4 +1,4 @@
-# Professional Activity
+## Professional Activity
 
 ### career portfolio
   
@@ -10,8 +10,8 @@
 
 # Honor and Award
 
-* Award from Excellent tourism workerof Korea Tourism Association
-* Top sales contest ranked 5, 2 times
-* Win a prize in Hanatour contest for K.M 3 times.
-* Win a prize “outstanding employee award” in 2000
+* Award from Excellent tourism worker of Korea Tourism Association in 2014
+* Top sales contest ranked 5, 2 times in HanaTOUR
+* Win a prize in Hanatour contest for K.M 3 times.in HanaTOUR
+* Win a prize “outstanding employee award” in 2000 in HanaTOUR
 
