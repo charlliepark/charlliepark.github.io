@@ -3,6 +3,7 @@
 * Raise a career portfolio with confidence without being proud
 
   * Please click here [charliepark/website](https://charlliepark.github.io/portfolio-GCcomp/index.html) 
+<video src="포트폴리오(Charliepark).mp4" width="800" height="600" autoplay controls>
 
 <br/>
 
