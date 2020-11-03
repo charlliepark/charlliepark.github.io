@@ -1,7 +1,7 @@
 ### Career Portfolio
   
 * Raise a career portfolio with confidence without being proud
-<video src="포트폴리오(Charliepark).mp4" width="800" height="600" autoplay controls>
+* <video src="포트폴리오(Charliepark).mp4" width="800" height="600" autoplay controls>
 
 <br/>
 
