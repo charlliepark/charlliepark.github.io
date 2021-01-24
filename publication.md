@@ -9,5 +9,5 @@ title: Publication
 
 #### recently researh 
 * Data mining of customer attrition
-* Please click here [charliepark/paper](https://rpubs.com/charliepark/708837) 
+* Please click here [charliepark/research](https://rpubs.com/charliepark/708837) 
 
