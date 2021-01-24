@@ -1,7 +1,8 @@
 ### Career Portfolio
   
 * Raise a career portfolio with confidence without being proud
-* Please click here [charliepark/website](https://charlliepark.github.io/charliepark/index.html) 
+* First of all, Please click here [charliepark/Introdutions](https://charlliepark.github.io/charliepark/index.html)
+* attaching file [business strategy report]
 
 <br/>
 
